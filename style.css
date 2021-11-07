@@ -6,3 +6,6 @@ header, main {
 #interrupitor {
     width: 200px;
 }
+#l1 {
+    visibility: hidden;
+}
